@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+h1,h2{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border:10px solid black;
+    border-radius: 20px;
+    
+}
+.poroda{
+    background-color:#E7B653 ;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+main{
+    background-color: #425D9B;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+    .footer p{
+        color: black;
+    }
+footer{background-color: #425D9B;}
+   .lapa{margin-left:580px;} 
+   
